@@ -1,4 +1,4 @@
-package main.java.tn.eni;
+package tn.eni;
 
 public class App {
     public String greet() {
